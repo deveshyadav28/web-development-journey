@@ -1,0 +1,16 @@
+(1) - interpreted
+(2) - Dynamically Typed 
+(3) - Single Threaded 
+(4) - Garbage collected
+
+Interpreted
+→ Code runtime par execute/process hota hai. tast line by line 
+
+Dynamically Typed
+→ Variable ka type runtime par determine hota hai.
+
+Single Threaded
+→ Main JavaScript execution ek time par ek task handle karta hai.
+
+Garbage Collected
+→ Unused objects ki memory automatically clean hoti hai.
